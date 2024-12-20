@@ -3,7 +3,7 @@
 /**
  * Plugin Name: WooCommerce Order Delivery ETA
  * Description: Display order tracking timeline with customizable steps and ETA
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Mohamed Naflan
  * Requires at least: 5.8
  * Requires PHP: 7.4
